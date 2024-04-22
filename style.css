@@ -1,0 +1,16 @@
+.paper{
+    padding: 100px 100px;
+   
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(' c:\\Users\\Hp\\Documents\\lakshya bg.jpg');
+}
+
+.paper{
+    border: 5px solid rgb(19, 11, 11);
+    position: absolute;
+}
